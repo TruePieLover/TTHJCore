@@ -1,1 +1,1 @@
-"#TTHJCore" 
+#TTHJCore
