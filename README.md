@@ -5,6 +5,6 @@ Full financial and crypto solutions
 
 Author: Pie
 
-Website: wwww.gotraphouse.com 
+Website: www.gotraphouse.com 
 
     
