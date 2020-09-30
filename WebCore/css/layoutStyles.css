@@ -1,0 +1,47 @@
+/*******************
+        TTHJCore WebCore
+   Custom CSS styles for main website
+ **********************************/
+/* Styles are based around a basic footy sticker bootstrap template
+-------------------------------------------------- */
+
+
+
+/* Footer-based page styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    font-family: 'PT Sans', sans-serif;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+}
+
+
+/* Page styles not required for the footer
+-------------------------------------------------- */
+
+
+body > .container {
+    padding: 60px 15px 0;
+}
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+code {
+    font-size: 80%;
+}
